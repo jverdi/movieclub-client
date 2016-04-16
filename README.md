@@ -1,2 +1,1 @@
-# movieclub-client
-Movie Club Client
+# Movie Club Client
